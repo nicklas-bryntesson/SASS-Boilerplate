@@ -1,0 +1,1 @@
+console.log( "%cI\'m Aliveeee 🧟", "color: DarkSeaGreen; font-size: xx-large" );
